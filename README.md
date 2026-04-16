@@ -1,16 +1,16 @@
-## Hi there 👋
+# Maria Montobbio
 
-<!--
-**MariaMontobbio/MariaMontobbio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Student of Cross-Platform Application Development motivated in back-end programming. Independent, with strong logical thinking skills and a knack for maintaining clean and well-documented code. Interested in continuing to learn technical and linguistic languages, as well as finding work placements to complement my studies.
 
-Here are some ideas to get you started:
+## Technologies
+- Java
+- OOP
+- HTML
+- JavaScript
+- CSS
+- SQL
+- Files
+- EXceptions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
