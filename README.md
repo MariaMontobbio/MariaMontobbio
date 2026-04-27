@@ -11,10 +11,10 @@ Student of Cross-Platform Application Development motivated in back-end programm
 - CSS
 - SQL
 - Files
-- EXceptions
+- Exceptions
 
 ## Projects
 [Juego de la serpiente](https://github.com/MariaMontobbio/Juego-de-la-serpiente)
-Juego del apserpiente balabla
+Juego de la serpiente 
 
 ---
