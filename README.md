@@ -35,7 +35,7 @@ Student of Cross-Platform Application Development motivated in back-end programm
 
 [CV](https://github.com/LSG-markup-lang/0373-dam-pr1-MariaMontobbio.git)
 <p>
-  Proyecto web academico en CSS y HTML con diseño responsive, animaciones y transiciones.
+  Proyecto academico en CSS y HTML con diseño responsive, animaciones y transiciones de mi curriculum vitae en fomato web para demostrar mis habilidades             tecnologicas y poderlo utilizar en ambitos de busca laboral.
 </p>
 
 [JavaCar](https://github.com/MariaMontobbio/practica-javacar-anna-maria.git) 
