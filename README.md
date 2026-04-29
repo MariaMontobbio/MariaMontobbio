@@ -18,7 +18,9 @@ Student of Cross-Platform Application Development motivated in back-end programm
 Juego de la serpiente 
 
 [CV](https://github.com/LSG-markup-lang/0373-dam-pr1-MariaMontobbio.git)
+Proyecto web academico en CSS y HTML con diseño responsive, animaciones y transiciones.
 
-[JavaCar](https://github.com/LSG-Programacio/practica-javacar-anna-maria.git)
+[JavaCar](https://github.com/LSG-Programacio/practica-javacar-anna-maria.git) 
+Sistema que gestiona alquileres de vehiculos atraves de terminal. 
 
 ---
