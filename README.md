@@ -36,9 +36,9 @@ Student of Cross-Platform Application Development motivated in back-end programm
   Proyecto web academico en CSS y HTML con diseño responsive, animaciones y transiciones.
 </p>
 
-[JavaCar](https://github.com/LSG-Programacio/practica-javacar-anna-maria.git) 
+[JavaCar](https://github.com/MariaMontobbio/practica-javacar-anna-maria.git) 
 <p>
-  Sistema que gestiona alquileres de vehiculos atraves de terminal. 
+  JavaCar es un sistema de alquiler de vehículos realizado en Java. Permite gestionar coches, motos y furgonetas disponibles para alquilar, calcular los precios     de cada alquiler y saber cuántos ingresos se han generado.
 </p>
 
 ## My stats
